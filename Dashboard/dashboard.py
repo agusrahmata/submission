@@ -7,7 +7,7 @@ from babel.numbers import format_currency
 sns.set(style='dark')
 
 # load data
-main_data_df = pd.read_csv("main_data.csv")
+main_data_df = pd.read_csv("Dashboard/main_data.csv")
 
 # mengganti judul kolom dteday menjadi dateday
 # mengganti judul kolom yr menjadi year
