@@ -13,7 +13,7 @@ streamlit run dashboard.py
 ```
 
 ## Tautan Screenshot Dashboard
-[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
+[![Alt text](https://github.com/agusrahmata/submission/tree/main/Screenshot%20Dashboard)](https://github.com/agusrahmata/submission/tree/main/Screenshot%20Dashboard)
 
-## Tautan Streamlit.io
-[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://digitalocean.com)
+## Tautan Github
+[![Alt text](https://github.com/agusrahmata/submission)](https://github.com/agusrahmata/submission)
